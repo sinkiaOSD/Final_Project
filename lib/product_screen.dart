@@ -317,7 +317,7 @@ class _ProductScreenState extends State<ProductScreen> {
                         children: [
                           // Name Text
                           Text(
-                            'Kristin',
+                            'Sinkia',
                             style: TextStyle(
                                 fontSize: 22,
                                 fontWeight: FontWeight.bold,
